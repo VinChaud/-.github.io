@@ -20,7 +20,7 @@ ol{
     padding-right: 2px;
 }
 #banana{
-    grid-template-columns: 150px 1fr;
+    grid-template-columns: 1fr 2fr;
     display: grid;
 }
 #apple{
