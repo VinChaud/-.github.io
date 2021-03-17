@@ -24,5 +24,6 @@ ol{
     display: grid;
 }
 #apple{
-    padding-left: 33px;
+    padding-left: 22px;
+    padding-right: 22px;
 }
