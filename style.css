@@ -4,12 +4,14 @@ a{
     color: black;
 }
 body{
+    background-image: url('whitecat.jpg');
     margin: 0%;
 }
 h1{
     border-bottom: solid gray 1px;
     margin: 0%;
     text-align: center;
+    padding: 3px;
 }
 ol{
     border-right: solid gray 1px;
@@ -26,4 +28,8 @@ ol{
 #apple{
     padding-left: 22px;
     padding-right: 22px;
+}
+image {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
 }
